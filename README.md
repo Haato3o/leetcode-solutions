@@ -3,6 +3,7 @@ My Leetcode solutions. They are definitely not the best nor the fastest solution
 
 Id|Problem Name|Link|Difficulty|Solution|Language
 --|------------|----|----------|--------|---------
+129|Sum Root to Leaf Numbers|[LeetCode](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/sum-root-to-leaf-numbers/solution.c)|C
 137|Single Number II|[LeetCode](https://leetcode.com/problems/single-number-ii/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/single-number-ii/solution.py)|Python3
 226|Invert Binary Tree|[LeetCode](https://leetcode.com/problems/invert-binary-tree/)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/invert-binary-tree/solution.c)|C
 237|Delete Node in a Linked List|[LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/delete-node-in-a-linked-list/solution.c)|C
