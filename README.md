@@ -13,3 +13,4 @@ Id|Problem Name|Link|Difficulty|Solution|Language
 461|Hamming Distance|[LeetCode](https://leetcode.com/problems/hamming-distance/)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/hamming-distance/solution.c)|C
 528|Random Pick with Weight|[LeetCode](https://leetcode.com/problems/random-pick-with-weight/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/random-pick-with-weight/solution.py)|Python3
 1029|Two City Scheduling|[LeetCode](https://leetcode.com/problems/two-city-scheduling/)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/two-city-scheduling/solution.py)|Python3
+1344|Angle Between Hands of a Clock|[LeetCode](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/angle-between-hands-of-a-clock/solution.py)|Python3
