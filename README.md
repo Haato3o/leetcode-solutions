@@ -9,9 +9,10 @@ Id|Problem Name|Link|Difficulty|Solution|Language
 237|Delete Node in a Linked List|[LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/delete-node-in-a-linked-list/solution.c)|C
 287|Find the Duplicate Number|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/find-the-duplicate-number/solution.c)|C
 344|Reverse String|[LeetCode](https://leetcode.com/problems/reverse-string/)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/reverse-string/solution.c)|C
-389|Find the Difference|[LeetCode](https://leetcode.com/problems/find-the-difference/)|Easy|[Solution]((https://github.com/Haato3o/leetcode-solutions/blob/master/find-the-difference/solution.py)|Python3
+389|Find the Difference|[LeetCode](https://leetcode.com/problems/find-the-difference/)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/find-the-difference/solution.py)|Python3
 406|Queue Reconstruction by Height|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/queue-reconstruction-by-height/solution.py)|Python3
 461|Hamming Distance|[LeetCode](https://leetcode.com/problems/hamming-distance/)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/hamming-distance/solution.c)|C
+495|Teemo Attacking|[LeetCode](https://leetcode.com/problems/teemo-attacking/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/teemo-attacking/solution.c)|C
 528|Random Pick with Weight|[LeetCode](https://leetcode.com/problems/random-pick-with-weight/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/random-pick-with-weight/solution.py)|Python3
 1029|Two City Scheduling|[LeetCode](https://leetcode.com/problems/two-city-scheduling/)|Easy|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/two-city-scheduling/solution.py)|Python3
 1344|Angle Between Hands of a Clock|[LeetCode](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|Medium|[Solution](https://github.com/Haato3o/leetcode-solutions/blob/master/angle-between-hands-of-a-clock/solution.py)|Python3
