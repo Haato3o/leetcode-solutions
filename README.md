@@ -18,3 +18,4 @@ Id|Problem Name|Link|Difficulty|Solution|Language
 1029|Two City Scheduling|[LeetCode](https://leetcode.com/problems/two-city-scheduling/)|Easy|[Solution](/two-city-scheduling/solution.py)|Python3
 1290|Convert Binary Number in a Linked List to Integer|[LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Easy|[Solution](/convert-binary-number-in-a-linked-list-to-integer/solution.cpp)|C++
 1344|Angle Between Hands of a Clock|[LeetCode](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|Medium|[Solution](/angle-between-hands-of-a-clock/solution.py)|Python3
+1446|Consecutive Characters|[LeetCode](https://leetcode.com/problems/consecutive-characters/)|Easy|[Solution](/consecutive-characters/solution.cpp)|C++
