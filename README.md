@@ -16,6 +16,7 @@ Id|Problem Name|Link|Difficulty|Solution|Language
 461|Hamming Distance|[LeetCode](https://leetcode.com/problems/hamming-distance/)|Easy|[Solution](/hamming-distance/solution.c)|C
 495|Teemo Attacking|[LeetCode](https://leetcode.com/problems/teemo-attacking/)|Medium|[Solution](/teemo-attacking/solution.c)|C
 528|Random Pick with Weight|[LeetCode](https://leetcode.com/problems/random-pick-with-weight/)|Medium|[Solution](/random-pick-with-weight/solution.py)|Python3
+832|Flipping an Image|[LeetCode](https://leetcode.com/problems/flipping-an-image/)|Easy|[Solution](/flipping-an-image/solution.cpp)|C++
 1029|Two City Scheduling|[LeetCode](https://leetcode.com/problems/two-city-scheduling/)|Easy|[Solution](/two-city-scheduling/solution.py)|Python3
 1290|Convert Binary Number in a Linked List to Integer|[LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Easy|[Solution](/convert-binary-number-in-a-linked-list-to-integer/solution.cpp)|C++
 1344|Angle Between Hands of a Clock|[LeetCode](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|Medium|[Solution](/angle-between-hands-of-a-clock/solution.py)|Python3
