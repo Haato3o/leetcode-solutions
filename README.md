@@ -12,6 +12,7 @@ Id|Problem Name|Link|Difficulty|Solution|Language
 344|Reverse String|[LeetCode](https://leetcode.com/problems/reverse-string/)|Easy|[Solution](/reverse-string/solution.c)|C
 389|Find the Difference|[LeetCode](https://leetcode.com/problems/find-the-difference/)|Easy|[Solution](/find-the-difference/solution.py)|Python3
 406|Queue Reconstruction by Height|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height/)|Medium|[Solution](/queue-reconstruction-by-height/solution.py)|Python3
+412|Fizz Buzz|[LeetCode](https://leetcode.com/problems/fizz-buzz/)|Easy|[Solution](/fizz-buzz/solution.cpp)|C++
 461|Hamming Distance|[LeetCode](https://leetcode.com/problems/hamming-distance/)|Easy|[Solution](/hamming-distance/solution.c)|C
 495|Teemo Attacking|[LeetCode](https://leetcode.com/problems/teemo-attacking/)|Medium|[Solution](/teemo-attacking/solution.c)|C
 528|Random Pick with Weight|[LeetCode](https://leetcode.com/problems/random-pick-with-weight/)|Medium|[Solution](/random-pick-with-weight/solution.py)|Python3
