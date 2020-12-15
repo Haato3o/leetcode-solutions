@@ -19,6 +19,7 @@ Id|Problem Name|Link|Difficulty|Solution|Language
 528|Random Pick with Weight|[LeetCode](https://leetcode.com/problems/random-pick-with-weight/)|Medium|[Solution](/random-pick-with-weight/solution.py)|Python3
 832|Flipping an Image|[LeetCode](https://leetcode.com/problems/flipping-an-image/)|Easy|[Solution](/flipping-an-image/solution.cpp)|C++
 938|Range Sum of BST|[LeetCode](https://leetcode.com/problems/range-sum-of-bst/)|Easy|[Solution](/range-sum-of-bst/solution.cpp)|C++
+977|Squares of a Sorted Array|[LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|[Solution](/squares-of-a-sorted-array/solution.cpp)|C++
 1015|Smallest Integer Divisible by K|[LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|Medium|[Solution](/smallest-integer-divisible-by-k/solution.py)|Python3
 1029|Two City Scheduling|[LeetCode](https://leetcode.com/problems/two-city-scheduling/)|Easy|[Solution](/two-city-scheduling/solution.py)|Python3
 1290|Convert Binary Number in a Linked List to Integer|[LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Easy|[Solution](/convert-binary-number-in-a-linked-list-to-integer/solution.cpp)|C++
