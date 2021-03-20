@@ -9,7 +9,7 @@ Id|Problem Name|Link|Difficulty|Solution|Language
 226|Invert Binary Tree|[LeetCode](https://leetcode.com/problems/invert-binary-tree/)|Easy|[Solution](/invert-binary-tree/solution.c)|C
 237|Delete Node in a Linked List|[LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list)|Easy|[Solution](/delete-node-in-a-linked-list/solution.c)|C
 239|Sliding Window Maximum|[LeetCode](https://leetcode.com/problems/sliding-window-maximum/)|Hard|[Solution](/sliding-window-maximum/solution.cpp)|C++
-268|Missing Number|[LeetCode](https://leetcode.com/problems/missing-number/)|Easy|[Solution](/missing-number/solution.rs)/Rust
+268|Missing Number|[LeetCode](https://leetcode.com/problems/missing-number/)|Easy|[Solution](/missing-number/solution.rs)|Rust
 287|Find the Duplicate Number|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)|Medium|[Solution](/find-the-duplicate-number/solution.c)|C
 344|Reverse String|[LeetCode](https://leetcode.com/problems/reverse-string/)|Easy|[Solution](/reverse-string/solution.c)|C
 389|Find the Difference|[LeetCode](https://leetcode.com/problems/find-the-difference/)|Easy|[Solution](/find-the-difference/solution.py)|Python3
