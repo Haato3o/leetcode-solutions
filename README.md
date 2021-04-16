@@ -11,6 +11,7 @@ Id|Problem Name|Link|Difficulty|Solution|Language
 239|Sliding Window Maximum|[LeetCode](https://leetcode.com/problems/sliding-window-maximum/)|Hard|[Solution](/sliding-window-maximum/solution.cpp)|C++
 268|Missing Number|[LeetCode](https://leetcode.com/problems/missing-number/)|Easy|[Solution](/missing-number/solution.rs)|Rust
 287|Find the Duplicate Number|[LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)|Medium|[Solution](/find-the-duplicate-number/solution.c)|C
+343|Integer Break|[LeetCode](https://leetcode.com/problems/integer-break/)|Medium|[Solution](/integer-break/solution.rs)|Rust
 344|Reverse String|[LeetCode](https://leetcode.com/problems/reverse-string/)|Easy|[Solution](/reverse-string/solution.c)|C
 389|Find the Difference|[LeetCode](https://leetcode.com/problems/find-the-difference/)|Easy|[Solution](/find-the-difference/solution.py)|Python3
 406|Queue Reconstruction by Height|[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height/)|Medium|[Solution](/queue-reconstruction-by-height/solution.py)|Python3
